@@ -99,7 +99,19 @@ Enable "static website hosting, hosting type (Host a static website) and in the 
 <img src="https://i.imgur.com/v9eViiz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To Secure the S3 bucket by using a bucket policy. Go back to the created bucket and click on permission, then edit "bucket policy". Copy the policy from the downloaded files that was added and paste it to the bucket policy section. Copy the ARN and paste it to the policy. Review to ensure that /* appears at the end of the ARN. 
+To Secure the S3 bucket by using a bucket policy. Go back to the created bucket and click on permission, then edit "bucket policy". Copy the policy from the downloaded files that was added and paste it to the bucket policy section. Copy the ARN and paste it to the policy. Review to ensure that /* appears at the end of the ARN. Save Changes at the bottom of the screen. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/LkS4LVU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/bxrOjuW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Review to ensure the bucket hosting is set. Under Bucket website endpoin, Click the copy icon to copy the bucket website endpoint. Paste it in a new window. 
 </p>
 <br />
 
