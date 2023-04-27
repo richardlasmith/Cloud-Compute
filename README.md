@@ -1,6 +1,3 @@
-<p>
-<img src="https://imgur.com/7wFKmUM" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <h1>AWS Cloud Computing Essentials - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and creation of the Amazon S3 Bucket.<br />
