@@ -1,6 +1,6 @@
 
 <h1>AWS Cloud Computing Essentials - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and creation of the Amazon S3 Bucket.<br />
+This tutorial outlines the prerequisites to migrate an existing website to static hosting on Amazon S3 in order to improve web application reliabiliy.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -14,15 +14,15 @@ This tutorial outlines the prerequisites and creation of the Amazon S3 Bucket.<b
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Amazon Web Services</b> (21H2)
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create an Amazon S3 Bucket.
+- Enable static website hosting. 
+- Secure the S3 bucket by using a bucket policy. 
+- Rename Index.html to Waves.html. 
+- 
 
 <h2>Installation Steps</h2>
 
