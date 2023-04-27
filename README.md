@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/W8QWdiT" alt="AWS Cloud logo"/>
+<img src="https://imgur.com/7wFKmUM" alt="AWS Cloud logo"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
