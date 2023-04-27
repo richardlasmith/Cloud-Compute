@@ -2,8 +2,8 @@
 <img src="https://imgur.com/7wFKmUM" alt="AWS Cloud logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>AWS Cloud Computing Essentials - Prerequisites and Installation</h1>
+This tutorial outlines the prerequisites and creation of the Amazon S3 Bucket.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -12,9 +12,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- AWS Account
+- AWS Cloud Quest Membership
 
 <h2>Operating Systems Used </h2>
 
