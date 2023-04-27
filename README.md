@@ -116,9 +116,16 @@ Review to ensure the bucket hosting is set. Under Bucket website endpoin, Click 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pskIaAy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Rename Index.html to Waves.html, select the index.html file, go to action, rename object, Change the object name to waves.html, Click Properties tab
+Scroll down to the Static website hosting section and click Edit, Change the Index document to waves.html, Save changes.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/A8rGdXZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
