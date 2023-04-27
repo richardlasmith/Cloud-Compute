@@ -1,3 +1,6 @@
+<p>
+<img src="https://i.imgur.com/Tx3uSba.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 <h1>AWS Cloud Computing Essentials - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites to migrate an existing website to static hosting on Amazon S3 in order to improve web application reliabiliy.<br />
@@ -31,6 +34,54 @@ This tutorial outlines the prerequisites to migrate an existing website to stati
 </p>
 <p>
 Do not use your personal AWS account or any other accoun, or validation will fail and you might incure unexpected charges, this lab can be ran through AWS Cloud Quest system.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/qSaTY3y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Use the search bar on the top of the AWS page type S3, and then click create.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/qQAivBl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now that you have created a new S3 bucket, you'll need to name it (remember the name), lab-unique-name-123, Select your AWS region on the dropdown, choose US East (N.Virginia) us-east-1. Scroll more and "ACLs Enabled", On Object ownership click object writer. Unclick "block all public access". Click the "I acknowledge the current setting button" Keep scroll and keep the rest of the options on the defaults. Now Click Create Bucket. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
