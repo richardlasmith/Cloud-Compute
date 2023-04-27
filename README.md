@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites to migrate an existing website to stati
 - Enable static website hosting. 
 - Secure the S3 bucket by using a bucket policy. 
 - Rename Index.html to Waves.html. 
-- 
+
 
 <h2>Installation Steps</h2>
 
