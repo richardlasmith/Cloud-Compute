@@ -127,5 +127,3 @@ Scroll down to the Static website hosting section and click Edit, Change the Ind
 <p>
 <img src="https://i.imgur.com/A8rGdXZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
-
