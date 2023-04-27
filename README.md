@@ -75,10 +75,15 @@ Let's go ahead and upload a few files on the bucket. Click upload, In the files 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/D7bNKGc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/kpP0q9F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+To Enable static website hosting. Click on the lab-unique-name-123 bucket and go to properties, once in the properites tab, scroll all the way down to "static website hosting and click the edit button. 
 </p>
 <br />
 
