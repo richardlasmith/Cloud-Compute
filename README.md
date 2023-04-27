@@ -1,5 +1,5 @@
-<p align="center">
-<img src="https://imgur.com/7wFKmUM" alt="AWS Cloud logo"/>
+<p>
+<img src="https://imgur.com/7wFKmUM" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h1>AWS Cloud Computing Essentials - Prerequisites and Installation</h1>
