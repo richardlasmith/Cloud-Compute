@@ -5,7 +5,7 @@ This tutorial outlines the prerequisites and creation of the Amazon S3 Bucket.<b
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: How To Create Amazon S3 Bucket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
