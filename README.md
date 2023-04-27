@@ -96,10 +96,10 @@ Enable "static website hosting, hosting type (Host a static website) and in the 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/v9eViiz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To Secure the S3 bucket by using a bucket policy. Go back to the created bucket and click on permission, then edit "bucket policy". Copy the policy from the downloaded files that was added and paste it to the bucket policy section. Copy the ARN and paste it to the policy. Review to ensure that /* appears at the end of the ARN. 
 </p>
 <br />
 
