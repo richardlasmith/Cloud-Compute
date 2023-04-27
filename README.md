@@ -14,7 +14,7 @@ This tutorial outlines the prerequisites to migrate an existing website to stati
 
 <h2>Operating Systems Used </h2>
 
-- Amazon Web Services</b> (21H2)
+- Amazon Web Services</b> 
 
 <h2>List of Prerequisites</h2>
 
